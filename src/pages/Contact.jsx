@@ -26,7 +26,7 @@ const Contact = () => {
             <li className="flex items-center gap-4">
               <MapPinIcon className="w-6 h-6 text-blue-600" />
               <span className="text-gray-700">
-                MATA VAISHNO GIRLS HOSTEL PVT LTD's registered office address is Flat No. Hig 3, 3ed Floor, Plot No 24, Patel Nagar, Anand Nagar (bhopal), Bhopal, Huzur, Madhya Pradesh, India, 462022
+                Flat No. Hig 3, 3ed Floor, Plot No 24, Patel Nagar, Anand Nagar (bhopal), Bhopal, Huzur, Madhya Pradesh, India, 462022
 click Here For All The Companies At 462022 | Close
 
               </span>
@@ -40,6 +40,7 @@ click Here For All The Companies At 462022 | Close
         </div>
       </div>
     </section>
+    
   );
 };
 

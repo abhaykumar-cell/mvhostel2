@@ -7,6 +7,7 @@ import Facilities from "./Pages/Facilities";
 import Gallery from "./Pages/Gallery";
 import Reviews from "./Pages/Reviews";
 import Contact from "./Pages/Contact";
+import WhatsAppButton from "./components/Button/WhatsButton";
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
       <Reviews />
       <Contact />
       <Footer />
+      <WhatsAppButton />
     </div>
   );
 }

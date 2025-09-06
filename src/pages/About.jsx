@@ -77,7 +77,8 @@ const About = () => {
           {/* Location / Map placeholder */}
           <div className="bg-gray-50 border border-gray-200 rounded-2xl p-5">
             <h4 className="text-lg font-semibold text-gray-900">Our Location</h4>
-            <p className="text-gray-600 mt-1">Patel Nagar, Bhopal, Madhya Pradesh</p>
+            <p className="text-gray-600 mt-1">Flat No. Hig 3, 3ed Floor, Plot No 24, Patel Nagar, Anand Nagar (bhopal), Bhopal, Huzur, Madhya Pradesh, India, 462022
+click Here For All The Companies At 462022 | Close</p>
 
             {/* Replace the iframe src with your exact Google Maps embed when ready */}
             <div className="mt-4 aspect-video w-full overflow-hidden rounded-xl">
