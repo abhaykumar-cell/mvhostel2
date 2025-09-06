@@ -1,12 +1,13 @@
 import Navbar from "./components/Nav";
 import Footer from "./components/Footer";
-import Home from "./Pages/Home";
-import About from "./Pages/About";
+import Home from "./pages/Home";
+import About from "./pages/About";
 import Rooms from "./pages/Room";
-import Facilities from "./Pages/Facilities";
-import Gallery from "./Pages/Gallery";
-import Reviews from "./Pages/Reviews";
-import Contact from "./Pages/Contact";
+import Facilities from "./pages/Facilities";
+import Gallery from "./pages/Gallery";
+import Reviews from "./pages/Reviews";
+import Contact from "./pages/Contact";
+
 import WhatsAppButton from "./components/Button/WhatsButton";
 
 function App() {
